@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "916695272352",
+    "project_id": "tcp-chat-app",
+    "storage_bucket": "tcp-chat-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916695272352:android:70b1d332fdb3b20bf732c5",
+        "android_client_info": {
+          "package_name": "com.example.tcp_chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLj7B8-DT2JdMFChskvo86GoigVtNVE4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916695272352:android:6dcdf59d6f6ea04ff732c5",
+        "android_client_info": {
+          "package_name": "com.example.tcpchatbotapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLj7B8-DT2JdMFChskvo86GoigVtNVE4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
